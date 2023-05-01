@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Food-delivery-app-LabCouse1.props" />
+</Project>

@@ -1,0 +1,14 @@
+﻿
+.external{
+    margin-top: 6%;
+    border: 0.5px dashed gray;
+    padding: 5%;
+    height: 570px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: gainsboro;
+}
+
+.form-outline{
+    width:100%;
+}
